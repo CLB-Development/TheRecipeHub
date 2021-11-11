@@ -1,0 +1,5 @@
+C:\Users\campb\Source\Repos\Notes\Notes.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\campb\Source\Repos\Notes\Notes.Android\obj\Debug\90\build.props
+C:\Users\campb\Source\Repos\Notes\Notes.Android\obj\Debug\90\adb.props
+C:\Users\campb\Source\Repos\Notes\Notes.Android\obj\Debug\90\Notes.Android.csprojAssemblyReference.cache
+C:\Users\campb\Source\Repos\Notes\Notes.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp

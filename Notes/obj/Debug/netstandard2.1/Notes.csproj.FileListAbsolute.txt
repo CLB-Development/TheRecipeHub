@@ -1,0 +1,16 @@
+C:\Users\campb\Source\Repos\Notes\Notes\bin\Debug\netstandard2.1\Notes.deps.json
+C:\Users\campb\Source\Repos\Notes\Notes\bin\Debug\netstandard2.1\Notes.dll
+C:\Users\campb\Source\Repos\Notes\Notes\bin\Debug\netstandard2.1\ref\Notes.dll
+C:\Users\campb\Source\Repos\Notes\Notes\bin\Debug\netstandard2.1\Notes.pdb
+C:\Users\campb\Source\Repos\Notes\Notes\obj\Debug\netstandard2.1\Notes.csprojAssemblyReference.cache
+C:\Users\campb\Source\Repos\Notes\Notes\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\campb\Source\Repos\Notes\Notes\obj\Debug\netstandard2.1\AppShell.xaml.g.cs
+C:\Users\campb\Source\Repos\Notes\Notes\obj\Debug\netstandard2.1\Views\AboutPage.xaml.g.cs
+C:\Users\campb\Source\Repos\Notes\Notes\obj\Debug\netstandard2.1\Views\NoteEntryPage.xaml.g.cs
+C:\Users\campb\Source\Repos\Notes\Notes\obj\Debug\netstandard2.1\Views\NotesPage.xaml.g.cs
+C:\Users\campb\Source\Repos\Notes\Notes\obj\Debug\netstandard2.1\Notes.AssemblyInfoInputs.cache
+C:\Users\campb\Source\Repos\Notes\Notes\obj\Debug\netstandard2.1\Notes.AssemblyInfo.cs
+C:\Users\campb\Source\Repos\Notes\Notes\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\campb\Source\Repos\Notes\Notes\obj\Debug\netstandard2.1\Notes.dll
+C:\Users\campb\Source\Repos\Notes\Notes\obj\Debug\netstandard2.1\ref\Notes.dll
+C:\Users\campb\Source\Repos\Notes\Notes\obj\Debug\netstandard2.1\Notes.pdb
